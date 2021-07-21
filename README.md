@@ -7,8 +7,8 @@
 | Primary Folder | Content |
 | ------------- | ------------- |
 | Output_max_n_stops_i | Dataset with the following setting: maximum number of stops in routes = i  |
-| ------------- | ------------- |
 | Secondary Folder | Content |
+| ------------- | ------------- |
 | A_jk_CSV |  |
 | N_ijd_CSV |  | 
 | n_stats_ijt_CSV | |
